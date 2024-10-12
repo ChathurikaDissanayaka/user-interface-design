@@ -138,3 +138,13 @@ main {
     border: 1px solid white;
 }
 
+
+/* Your Fixes Below */
+
+body {
+    background: #303A52;
+}
+
+nav {
+    background: #2C354A;
+}
