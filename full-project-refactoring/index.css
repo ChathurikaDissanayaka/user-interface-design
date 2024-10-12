@@ -165,10 +165,12 @@ p {
 a.cta-btn {
     font-size: .9em;
     padding: .2em .4em;
+    border-radius: .2em;
 }
 
 nav ul li a {
     font-size: 1.2em;
+    padding: .8em 1em;
 }
 
 h3 {
@@ -177,4 +179,12 @@ h3 {
 
 nav {
     text-align: left;
+}
+
+.inner-wrapper {
+    padding: 1em;
+}
+.panel {
+    padding: .5em 1em;
+    margin-bottom: 2em;
 }
